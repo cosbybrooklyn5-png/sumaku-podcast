@@ -1,0 +1,24 @@
+# Node
+node_modules/
+
+# Next.js build
+.next/
+
+# Env
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Editor
+.vscode/
+
+# Generated audio outputs
+public/audio/final_episode.mp3
+public/audio/voice.mp3
